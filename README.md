@@ -31,6 +31,8 @@ To run the project:
 3. Evaluate the model's performance using the evaluation script.
 4. Experiment with different hyperparameters, architectures, and optimization techniques to improve performance.
 
+## 👉To Access the Project's Python Notebook Click [HERE](https://github.com/sahermuhamed1/Breast-Cancer-with-Neural-Network-Deep-Learning-Project/blob/main/breast_cancer_NN.ipynb)👈
+
 # Contact info📩
 For inquiries or further collaboration, please contact Saher Mohammed at [sahermuhamed176@gmail.com].🥰
 
